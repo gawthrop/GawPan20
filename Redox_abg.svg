@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="no"?>
+<!-- Creator: fig2dev Version 3.2.6a -->
+<!-- CreationDate: 2020-08-04 11:42:21 -->
+<!-- Magnification: 1.05 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="739pt" height="300pt"
+	viewBox="213 1338 11724 4749">
+<g fill="none">
+<!-- Line -->
+<rect x="4725" y="1575" width="2475" height="2250" rx="105"
+	stroke="#ff0000" stroke-width="15px" stroke-dasharray="60 60"/>
+<!-- Line -->
+<rect x="225" y="1350" width="11700" height="4725" rx="105"
+	stroke="#ffd600" stroke-width="8px"/>
+<!-- Text -->
+<text xml:space="preserve" x="2475" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Re:r1</text>
+<!-- Text -->
+<text xml:space="preserve" x="900" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="4050" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="5400" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="4050" y="4590" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="4050" y="5940" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">C:H</text>
+<!-- Text -->
+<text xml:space="preserve" x="6750" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="8100" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="9675" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">Re:r2</text>
+<!-- Text -->
+<text xml:space="preserve" x="11250" y="3240" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">1</text>
+<!-- Text -->
+<text xml:space="preserve" x="8100" y="4590" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">0</text>
+<!-- Text -->
+<text xml:space="preserve" x="900" y="1890" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">C:NADH</text>
+<!-- Text -->
+<text xml:space="preserve" x="4050" y="1890" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">C:NAD</text>
+<!-- Text -->
+<text xml:space="preserve" x="5400" y="1890" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">C:E1</text>
+<!-- Text -->
+<text xml:space="preserve" x="6750" y="1890" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">C:E2</text>
+<!-- Text -->
+<text xml:space="preserve" x="8100" y="1890" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">C:Q</text>
+<!-- Text -->
+<text xml:space="preserve" x="11250" y="1890" fill="#000000" font-family="Helvetica" font-style="normal" font-weight="bold" font-size="216" text-anchor="middle">C:QH2</text>
+<!-- Line -->
+<polyline points=" 2925,3150 3825,3150 3600,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4050,3375 4050,4275 4275,4050"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 900,2025 900,2925 1125,2700"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 1125,3150 2025,3150 1800,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4050,2925 4050,2025 4275,2250"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4275,3060 5175,3060 4950,3285"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4275,3240 5175,3240 4950,3465"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4050,4725 4050,5625 4275,5400"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 5400,2925 5400,2025 5625,2250"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 4275,4500 7875,4500 7650,4725"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 8325,3150 9225,3150 9000,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 10125,3150 11025,3150 10800,3375"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 8100,2025 8100,2925 8325,2700"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 11250,2925 11250,2025 11475,2250"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 8010,4275 8010,3375 8235,3600"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 8190,4275 8190,3375 8415,3600"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6975,3060 7875,3060 7650,3285"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6975,3240 7875,3240 7650,3465"
+	stroke="#000000" stroke-width="15px"/>
+<!-- Line -->
+<polyline points=" 6750,2025 6750,2925 6975,2700"
+	stroke="#000000" stroke-width="15px"/>
+</g>
+</svg>

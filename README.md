@@ -2,7 +2,7 @@
 
 There are two notebooks:
 
-- [ElectroChemical](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/tree/master/ElectroChemical.ipynb): Electrochemical reactions example.
+- [ElectroChemical](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/blob/master/ElectroChemical.ipynb): Electrochemical reactions example.
 
-- [Redox](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/tree/master/Redox.ipynb): Redox reactions example.
+- [Redox](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/blob/master/Redox.ipynb): Redox reactions example.
 

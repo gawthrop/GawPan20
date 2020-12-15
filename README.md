@@ -1,4 +1,6 @@
-# GawPan20: Code for the examples in <cite data-cite="GawPan20X">Gawthrop and Pan (2020)</cite> available [here](https://arxiv.org/abs/2009.02217).
+# GawPan20: Code for the examples in Gawthrop and Pan (2020) available [here](https://arxiv.org/abs/2009.02217).
+
+- Each of the following links displays the notebook using nbviewer. The notebook may be run using the binder link in the nbviewer menu.
 
 There are two notebooks:
 
@@ -6,4 +8,3 @@ There are two notebooks:
 
 - [Redox](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/blob/master/Redox.ipynb): Redox reactions example.
 
-- [stoich](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/tree/master/stoich.ipynb): The stoichiometric analysis module

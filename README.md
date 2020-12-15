@@ -6,4 +6,4 @@ There are two notebooks:
 
 - [Redox](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/blob/master/Redox.ipynb): Redox reactions example.
 
-- [stoich](https://nbviewer.jupyter.org/github/gawthrop/BondGraphTools-Biomolecular/tree/master/stoich.ipynb): The stoichiometric analysis module
+- [stoich](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/tree/master/stoich.ipynb): The stoichiometric analysis module

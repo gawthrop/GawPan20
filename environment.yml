@@ -6,6 +6,7 @@ dependencies:
   - numpy
   - matplotlib
   - sympy
+  - slycot
   - pip
   - pip:
     - BondGraphTools==0.3.7
@@ -14,5 +15,7 @@ dependencies:
     - datetime
     - pandas
     - xlrd
-
+    - networkx
+    - control
+    - cobra
 

@@ -7,16 +7,15 @@ dependencies:
   - matplotlib
   - sympy
   - slycot
-  - svgpathtools
   - lxml
-  - datetime
   - pandas
   - xlrd
   - networkx
   - control
-  - cobra
   - pip
   - pip:
+    - svgpathtools
+    - datetime
+    - cobra
     - BondGraphTools==0.3.7
-
 

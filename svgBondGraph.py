@@ -202,11 +202,7 @@ def makeConnections(bondList,
         headList.append(head)
         tailList.append(tail)
 
-    if not quiet:
-        print("headList:",headList)
-        print("tailList:",tailList)
-        print("compPort:",compPort)
-        
+    # print("compPort:",compPort)
     return headList,tailList,compPort
 
 def makeBond(headList,tailList):

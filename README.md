@@ -8,6 +8,6 @@ This repository contains code for the examples in Gawthrop and Pan (2020), avail
 The nbviewer links will display the notebooks containing the code for each of the examples. These notebooks can be interactively run online using the Binder links.
 
 Notebook | nbviewer | Binder | PDF
---- | --- | ---
+--- | --- | --- | ---
 [1. Electrochemical reactions](https://github.com/gawthrop/GawPan20/blob/main/ElectroChemical.ipynb) | [![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/blob/main/ElectroChemical.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gawthrop/GawPan20/main?filepath=ElectroChemical.ipynb) | [PDF](https://github.com/gawthrop/GawPan20/blob/main/ElectroChemical.pdf)
-[Redox reactions](https://github.com/gawthrop/GawPan20/blob/main/Redox.ipynb)|[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/blob/main/Redox.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gawthrop/GawPan20/main?filepath=Redox.ipynb) | [PDF](https://github.com/gawthrop/GawPan20/blob/main/Redox.pdf)
+[2. Redox reactions](https://github.com/gawthrop/GawPan20/blob/main/Redox.ipynb)|[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/gawthrop/GawPan20/blob/main/Redox.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gawthrop/GawPan20/main?filepath=Redox.ipynb) | [PDF](https://github.com/gawthrop/GawPan20/blob/main/Redox.pdf)

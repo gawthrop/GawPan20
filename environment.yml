@@ -3,19 +3,18 @@ channels:
   - conda-forge
 dependencies:
   - python=3.6
-  - numpy
-  - matplotlib
-  - sympy
-  - slycot
-  - lxml
-  - pandas
-  - xlrd
-  - networkx
-  - control
+  - numpy==1.19.4
+  - matplotlib==2.2.2
+  - sympy==1.7.1
+  - slycot==0.4.0.0
+  - lxml==4.6.2
+  - pandas==1.1.5
+  - xlrd==2.0.1
+  - networkx==2.5
+  - control==0.8.3
   - pip
   - pip:
-    - svgpathtools
-    - datetime
-    - cobra
+    - svgpathtools==1.4.1
+    - cobra==0.20.0
     - BondGraphTools==0.3.7
 
